@@ -1,1 +1,1 @@
-echo "Hello from my GitHub repo!"
+echo "Hello world!"
